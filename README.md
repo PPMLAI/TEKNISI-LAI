@@ -1,2 +1,2 @@
 # TEKNISI-LAI
-Aplikasi Sederhana untuk Maintenance LAI
+SIMPATI LAI (Sistem Informasi Maintenance Terpadu LAI) adalah aplikasi yang dirancang untuk membantu tim Teknisi PPM Lembaga Alkitab Indonesia (LAI) dalam mengelola aktivitas pemeliharaan, perbaikan, inspeksi, dan pelaporan kondisi fasilitas serta mesin produksi secara digital. Aplikasi ini bertujuan untuk meningkatkan efektivitas pemeliharaan, mengurangi downtime mesin, serta mempermudah proses dokumentasi dan pelaporan pekerjaan teknisi.
